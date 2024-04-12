@@ -24,6 +24,7 @@ Powered by OpenCV (Open Source Computer Vision Library), our system offers a use
 
 ## Team
 Project Lead: Akshith Raj.
+
 Team Members: Akshith Raj, Sachin, Ravi and Sateesh.
 
 ## Acknowledgments
